@@ -1,0 +1,21 @@
+# فقط فایل‌های Dart در آمار لحاظ شوند
+*.dart linguist-detectable=true
+
+# پوشه‌های زیر از آمار زبان‌ها حذف شوند
+android/** linguist-vendored
+ios/** linguist-vendored
+macos/** linguist-vendored
+linux/** linguist-vendored
+windows/** linguist-vendored
+web/** linguist-vendored
+build/** linguist-vendored
+.dart_tool/** linguist-vendored
+.idea/** linguist-vendored
+test/** linguist-vendored
+.pub-cache/** linguist-vendored
+.flutter-plugins/** linguist-vendored
+.flutter-plugins-dependencies/** linguist-vendored
+
+# فایل‌های خاص Flutter
+pubspec.lock linguist-generated
+pubspec.yaml linguist-detectable=true
