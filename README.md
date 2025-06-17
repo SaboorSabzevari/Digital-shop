@@ -1,17 +1,20 @@
-# 🛍️ Digital Shop
+# Hi, I'm Saboor Sabzevari 👋
 
-**Digital Shop** یک اپلیکیشن فروشگاهی موبایل ساخته شده با **Flutter** است که تجربه‌ای روان و زیبا برای خرید آنلاین فراهم می‌کند. این پروژه شامل طراحی واکنش‌گرا، قابلیت سوییچ بین تم روشن و تاریک، و امکانات کامل برای ثبت سفارش می‌باشد.
+**Software Engineer | Flutter & Dart Enthusiast**
 
-## ✨ ویژگی‌ها
+Passionate Software Engineer specializing in Flutter and Dart. Dedicated to building visually stunning, efficient mobile applications with exceptional user experience. Always eager to learn, collaborate, and bring ideas to life!
 
-- 🎨 پشتیبانی از تم روشن و تاریک
-- 📱 رابط کاربری زیبا و واکنش‌گرا
-- 🛒 سبد خرید با امکان ویرایش اقلام
-- 👤 صفحه لاگین با اعتبار سنجی
-- 📂 بدون نیاز به پکیج‌های مدیریت وضعیت (state management)
+---
 
-## 📸 اسکرین‌شات‌ها
+## 🚀 Featured Project
 
+### [Digital Shop](https://github.com/SaboorSabzevari/Digital-shop)
+A modern Flutter e-commerce app featuring:
+- 🌗 Light/Dark theme support
+- 🔒 Login validation
+- 📱 Clean and responsive UI
+
+#### 📸 Screenshots
 
 <img src="assets/screenshots/login.png" width="300"/>
 <img src="assets/screenshots/home.png" width="300"/>
@@ -20,14 +23,31 @@
 <img src="assets/screenshots/search.png" width="300"/>
 
 
+#### 🎥 Demo Video
 
+<!-- Embed video if GitHub supports, else provide download/play link -->
+[![Watch the Demo](https://img.shields.io/badge/-Watch%20Demo%20Video-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/SaboorSabzevari/Digital-shop/blob/main/Screen_recording_20250615_114327.mp4)
 
-## ⚙️ نصب و اجرا
+> 📽️ [Click here to watch/download the demo video](https://github.com/SaboorSabzevari/Digital-shop/blob/main/Screen_recording_20250615_114327.mp4)
+---
 
-برای اجرای پروژه روی دستگاه خود:
+## 🛠️ Skills
 
-```bash
-git clone git@github.com:SaboorSabzevari/Digital-shop.git
-cd Digital-shop
-flutter pub get
-flutter run
+- **Languages & Frameworks:**  
+  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
+  ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)  
+
+- **Interests:**  
+  Mobile App Development, UI/UX, Clean Architecture, Responsive Design
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saboor-sabzevari)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:sabzevari456@gmail.com)
+
+---
+
+_Thanks for visiting my profile! If you’re interested in collaborating or just want to connect, feel free to reach out!_
+
